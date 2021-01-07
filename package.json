@@ -1,0 +1,29 @@
+{
+  "name": "pdjr-skwebapp-tank-monitor",
+  "version": "1.0.0",
+  "description": "Signal K tank monitor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preeve9534/pdjr-skwebapp-tank-monitor.git"
+  },
+  "keywords": [
+    "signalk-webapp",
+    "tank",
+    "monitor"
+  ],
+  "author": "Paul Reeve <preeve@pdjr.eu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/preeve9534/pdjr-skwebapp-tank-monitor/issues"
+  },
+  "homepage": "https://github.com/preeve9534/pdjr-skwebapp-tank-monitor#readme",
+  "dependencies": {
+    "node-persist": "^3.0.5",
+    "node-schedule": "^1.3.2",
+    "optimist": "^0.6.1",
+    "websocket": "^1.0.31"
+  }
+}
