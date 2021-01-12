@@ -4,9 +4,9 @@
 [submodule "public/lib/pdjr-skwidget-alarm-popup"]
 	path = public/lib/pdjr-skwidget-alarm-popup
 	url = https://github.com/preeve9534/pdjr-skwidget-alarm-popup
-[submodule "public/lib/signalk-libsignalkclient"]
-	path = public/lib/signalk-libsignalkclient
-	url = https://github.com/preeve9534/signalk-libsignalkclient
 [submodule "public/lib/pdjr-skwidget-tank-monitor"]
 	path = public/lib/pdjr-skwidget-tank-monitor
 	url = https://github.com/preeve9534/pdjr-skwidget-tank-monitor
+[submodule "public/lib/pdjr-skwidget-signalkclient"]
+	path = public/lib/pdjr-skwidget-signalkclient
+	url = https://github.com/preeve9534/pdjr-skwidget-signalkclient
